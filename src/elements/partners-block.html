@@ -59,29 +59,29 @@
     <div class="container">
       <h1 class="container-title">{$ partnersBlock.title $}</h1>
 
-      <template is="dom-repeat" items="[[partners]]" as="block">
+     
           <h4 class="block-title">[[block.title]]</h4>
-          <div class="logos-wrapper">
-            <template is="dom-repeat" items="[[block.items]]" as="logo">
+          <div class="logos-wrapper" align="center">
+        
               <a
                 class="logo-item card"
-                href$="[[logo.url]]"
-                title$="[[logo.name]]"
+                href$="https://google.com"
+                title$="Google"
                 target="_blank"
                 rel="noopener noreferrer"
                 layout horizontal center-center
               >
                 <plastic-image
                   class="logo-img"
-                  srcset="[[logo.logoUrl]]"
+                  srcset="../../images/logos/google.svg"
                   sizing="contain"
                   lazy-load
                   preload fade
                 ></plastic-image>
               </a>
-            </template>
+     
           </div>
-      </template>
+
 
       <paper-button class="cta-button animated icon-right"
         on-tap="_addPotentialPartner">
