@@ -1,7 +1,7 @@
 {
   "title": "GDG DevFest Season 2018",
   "description": "Be a hero. Be a GDG!",
-  "image": "images/social-share.jpg",
+  "image": "images/social-share.png",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "October 25-26-27, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Register soon ! ",
+  "buyTicket": "Register ",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -89,7 +89,7 @@
       },
       "howItWas": {
         "description": "For its 6th edition, GDG Algiers intends to bring an original touch to the Devfest Algiers 2018 which will be spread for the first time on 3 consecutive days. Be there and enjoy amazing surprises !!!",
-        "label": "See how it was in 2016",
+        "label": "See how it was in 2017",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
@@ -172,7 +172,7 @@
     "description": "Last year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/QdpTEHxMbTUZ8rUS7"
     }
   },
   "mapBlock": {
